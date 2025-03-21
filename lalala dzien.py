@@ -1,0 +1,1 @@
+print("Dzis jest 21.03.2025")
